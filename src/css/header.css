@@ -1,0 +1,11 @@
+
+.navbar{
+    background-color: rgb(68, 68, 68);
+}
+.container-fluid{
+    display: flex;
+    justify-content: center !important;
+}
+.navbar-brand{
+    color: white !important;
+}
