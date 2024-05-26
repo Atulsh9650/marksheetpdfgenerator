@@ -1,0 +1,55 @@
+.realexcel-main-div {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .file-upload {
+    margin-bottom: 20px;
+  }
+  
+  .file-input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .loading-text {
+    font-size: 16px;
+    color: #007bff;
+  }
+  
+  .error-text {
+    font-size: 16px;
+    color: red;
+  }
+  
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .data-table th,
+  .data-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  .data-table th {
+    background-color: #f2f2f2;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .data-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .data-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
